@@ -47,7 +47,7 @@ Get your free API key from [OpenWeatherMap](https://openweathermap.org/api).
 
 ## Live Demo
 
-[Your deployed site URL will go here]
+climasky.netlify.app
 
 ## License
 
